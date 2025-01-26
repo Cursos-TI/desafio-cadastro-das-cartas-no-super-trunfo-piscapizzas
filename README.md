@@ -1,3 +1,4 @@
+TERMINADO
 # ⚠️ Importante!!!
 Criamos um novo link para o primeiro desafio porque o link original apresentou problemas. Quem já completou o desafio pode continuar usando o link original para enviar seu repositório. Se você ainda não começou o desafio, utilize o novo link.
 
